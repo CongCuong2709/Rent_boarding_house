@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "626712920760",
+    "firebase_url": "https://rentboardinghouse-3a744-default-rtdb.firebaseio.com",
+    "project_id": "rentboardinghouse-3a744",
+    "storage_bucket": "rentboardinghouse-3a744.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626712920760:android:f9ce573a77955384506a4d",
+        "android_client_info": {
+          "package_name": "com.example.rent_boarding_house"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEusyy3hwfgJ4OKVarJfCX9Jjp7iJb4zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

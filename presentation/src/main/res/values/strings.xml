@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:locale="en-US">
+    <string name="Home">Trang chủ</string>
+    <string name="Person">Tài khoản</string>
+    <string name="Post">Đăng tin</string>
+    <string name="Notification">Thông báo</string>"
+    <string name="CreatePost">Đăng tin</string>
+</resources>
